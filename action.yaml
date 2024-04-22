@@ -1,0 +1,9 @@
+name: Setup just task runner
+author: Wiktor Kwapisiewicz
+description: Installs just task runner using OS-specific package manager
+branding:
+  icon: zap
+  color: green
+runs:
+  using: node20
+  main: index.js
