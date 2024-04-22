@@ -1,0 +1,36 @@
+{
+  "name": "setup-just",
+  "version": "1.0.0",
+  "description": "Sets up just task runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js",
+    "fix": "eslint --fix index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiktor-k/setup-just.git"
+  },
+  "keywords": [
+    "setup",
+    "just",
+    "task",
+    "runner"
+  ],
+  "author": "Wiktor Kwapisiewicz",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wiktor-k/setup-just/issues"
+  },
+  "homepage": "https://github.com/wiktor-k/setup-just#readme",
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.0.2",
+    "@eslint/js": "^9.1.1",
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.1.1",
+    "globals": "^15.0.0"
+  }
+}
