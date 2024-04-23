@@ -11,7 +11,7 @@ The action does not have any configuration and is extremely simple (see the `ind
 To use this action use the following fragment:
 
 ```yaml
-- uses: wiktor-k/setup-just
+- uses: wiktor-k/setup-just@v1
 ```
 
 ## License
