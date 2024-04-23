@@ -1,10 +1,10 @@
 # Setup Just
 
-Setups [`just` task runner](https://github.com/casey/just) in a GitHub Action.
+Blazingly fast setups [`just` task runner](https://github.com/casey/just) in a GitHub Action.
 
 Compared to other methods this action is designed to use compiled and packaged version of `just` for each major operating system thus significantly reducing installation time.
 
-The action does not have any configuration and is extremely simple.
+The action does not have any configuration and is extremely simple (see the `index.js` file!).
 
 ## Usage
 
